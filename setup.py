@@ -6,7 +6,7 @@ setup(
     description='Single-cell utilities',
     url='https://github.com/ktroule/sctools',
     author='Kevin',
-    author_email='',
+    author_email='nomail@nomail.com',
     license='',
     packages=['sctools'],
     install_requires=[],
