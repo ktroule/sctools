@@ -1,5 +1,9 @@
 from setuptools import setup
 
+# Reads the content of your README.md into a variable to be used in the setup below
+with open("README.md", "r", encoding="utf-8") as fh:
+    long_description = fh.read()
+
 setup(
     name='sctools',
     version='0.0.0',    
