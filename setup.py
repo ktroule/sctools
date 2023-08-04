@@ -1,8 +1,12 @@
+from setuptools import setup, find_packages
 from setuptools import setup
 
 # Reads the content of your README.md into a variable to be used in the setup below
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
+
+with open("requirements.txt", "rt", encoding="utf-8") as fh:
+    install_requirements_txt = [line.strip() for line in fh.readlines()]
 
 setup(
     name='sctools',
@@ -12,9 +16,8 @@ setup(
     author='Kevin',
     author_email='nomail@nomail.com',
     license='',
-    packages=['sctools'],
-    install_requires=[],
-
+    packages=['sctools', 'sctools.tools', 'sctools.metrics'],
+    install_requires=install_requirements_txt,
     classifiers=[
         'Development Status :: 1 - Planning',
         'Intended Audience :: Science/Research',

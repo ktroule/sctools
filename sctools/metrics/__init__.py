@@ -1,4 +1,4 @@
 #!/usr/bin/env python
-from sctools.metrics.soupy_ratio import soupy_ratio
+from sctools.metrics.soupy_ratio import *
 
-__all__ = ["soupy_ratio"]
+__all_ = ['soupy_ratio']
