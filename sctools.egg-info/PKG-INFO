@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: sctools
+Version: 0.0.0
+Summary: Utilities for single-cell analyses.
+Home-page: https://github.com/ktroule/sctools
+Author: Kevin
+Author-email: Kevin <nomail@nomail.com>
+Project-URL: Homepage, https://github.com/ktroule/sctools
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# sctools
+
+Repository with utilities for single-cell data analysis.
+
+
+## Modules
+
+### Metrics
+- **soupy_ratio**: calculates the ratio of counts associated to empty droplets compared to all droplets (empty + cells) as called by cellranger.
+
+### Tools
+- **pseudobulk_matrix**: creates a pseudobulk matrix by aggregating gene counts per user-defined group. 

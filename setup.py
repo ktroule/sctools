@@ -5,6 +5,7 @@ from setuptools import setup
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
+# Read the file `requirements.txt` with the dependencies required
 with open("requirements.txt", "rt", encoding="utf-8") as fh:
     install_requirements_txt = [line.strip() for line in fh.readlines()]
 
@@ -17,6 +18,7 @@ setup(
     author_email='nomail@nomail.com',
     license='',
     packages=['sctools', 'sctools.tools', 'sctools.metrics'],
+    keywords=['single', 'cell', 'tool'],
     install_requires=install_requirements_txt,
     classifiers=[
         'Development Status :: 1 - Planning',
