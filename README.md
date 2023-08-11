@@ -1,6 +1,6 @@
 # sctools
 
-Repository with utilities for single-cell data analysis.
+Repository with some custom utilities for single-cell data analysis.
 
 ## Instructions to install
 
