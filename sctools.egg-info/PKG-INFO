@@ -6,6 +6,7 @@ Home-page: https://github.com/ktroule/sctools
 Author: Kevin
 Author-email: Kevin <nomail@nomail.com>
 Project-URL: Homepage, https://github.com/ktroule/sctools
+Keywords: single,cell,tool
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
@@ -18,6 +19,9 @@ Repository with utilities for single-cell data analysis.
 
 
 ## Modules
+
+### Visualization
+- **dotplot_genes**: creates a scanpy-based dotplot from a dictionary or dataframe.
 
 ### Metrics
 - **soupy_ratio**: calculates the ratio of counts associated to empty droplets compared to all droplets (empty + cells) as called by cellranger.

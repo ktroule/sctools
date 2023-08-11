@@ -17,7 +17,10 @@ setup(
     author='Kevin',
     author_email='nomail@nomail.com',
     license='',
-    packages=['sctools', 'sctools.tools', 'sctools.metrics', 'sctools.visualization'],
+    packages=['sctools', 'sctools.tools', 'sctools.metrics', 'sctools.visualization',
+        'sctools.tools.src'],
+    include_package_data = True,
+    package_data={'': ['*.csv']}, 
     keywords=['single', 'cell', 'tool'],
     install_requires=install_requirements_txt,
     classifiers=[
@@ -25,6 +28,5 @@ setup(
         'Intended Audience :: Science/Research',
         'License :: OSI Approved :: BSD License',  
         'Operating System :: POSIX :: Linux',        
-        'Programming Language :: Python :: 3',
-    ],
-)
+        'Programming Language :: Python :: 3']
+    )
