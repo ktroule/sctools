@@ -2,7 +2,14 @@
 
 Repository with utilities for single-cell data analysis.
 
+## Instructions to install
 
+Check before installing dependencies that will be modified.
+
+```
+pip check git+https://github.com/ktroule/sctools.git
+pip install git+https://github.com/ktroule/sctools.git
+```
 ## Modules
 
 ### Visualization
