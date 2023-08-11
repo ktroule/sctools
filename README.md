@@ -8,6 +8,9 @@ Check before installing dependencies that will be modified.
 
 ```
 pip check git+https://github.com/ktroule/sctools.git
+```
+Install repository
+```
 pip install git+https://github.com/ktroule/sctools.git
 ```
 ## Modules
