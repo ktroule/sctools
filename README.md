@@ -6,11 +6,11 @@ Repository with some custom utilities for single-cell data analysis.
 
 Check before installing dependencies that will be modified.
 
-```
+```bash
 pip check git+https://github.com/ktroule/sctools.git
 ```
 Install repository
-```
+```bash
 pip install git+https://github.com/ktroule/sctools.git
 ```
 ## Modules
