@@ -1,6 +1,6 @@
 import scanpy as sc
 
-def calculate_pca(adata, max_scaling_value = 10, n_comps = 100):
+def calculate_pca(adata, max_scaling_value = 10, n_comps = 100, svd_solver = 'arpack'):
     '''
     Calculates the PCA for downstream analyses. This function is meant to avoid scaling
     gene expression on the original adata.
@@ -19,7 +19,7 @@ def calculate_pca(adata, max_scaling_value = 10, n_comps = 100):
 
     sc.tl.pca(bdata,
             n_comps = n_comps,
-            svd_solver = 'arpack')
+            svd_solver = svd_solver)
 
     # -- fill NaNs with False so that subsetting to HVGs is possible
     adata.var['highly_variable'].fillna(value = False,
