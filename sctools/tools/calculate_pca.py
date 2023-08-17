@@ -8,7 +8,12 @@ def calculate_pca(adata, max_scaling_value = 10, n_comps = 100):
     adata = calculate_pca(adata, max_scaling_value = 10, n_comps = 100)
     
     Parameters:
+        - adata (obj): scanpy object, must have varaible genes calculated.
+        - max_scaling_value (int): max value a gene can take during scaling process.
+        - n_comps (int): number of principal components to calculate.
     Output:
+        - PCA plot.
+        - Returns adata with PCA matrix.
     '''
     # -- subset adata to highly variable genes
     bdata = adata[:, adata.var.highly_variable]
