@@ -12,7 +12,7 @@ def pseudobulk_matrix(adata, bulk_variable, n_cells_replica):
         - n_cells_replica (int): Number of cells to sumple from each bulk_variable. If the number of cells for a given
             bilk_variable is lower than n_cells_replica, all cells used.
     
-    Parameters:
+    Output:
         - A dataframe with the aggregated count expression. Dataframe format is in gene x bulk_variable.
 
     '''
