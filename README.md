@@ -24,4 +24,11 @@ pip install git+https://github.com/ktroule/sctools.git
 ### Tools
 - **calculate_pca**: (to be tested). calculates the PCA on the adata without scaling the gene expression.
 - **load_markers**: load set of expression markers.
-- **pseudobulk_matrix**: creates a pseudobulk matrix by aggregating gene counts per user-defined group. 
+- **pseudobulk_matrix**: creates a pseudobulk matrix by aggregating gene counts per user-defined group.
+
+
+
+### Notes
+To use R with jupyter notebooks you might need to install the following pacakges:
+- rpy2==3.4.2
+- anndata2ri==1.0.6

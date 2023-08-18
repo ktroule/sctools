@@ -20,7 +20,7 @@ def colorize_labels(adata, colorize, ncols):
     annot_dummy = pd.get_dummies(x.obs[colorize])
 
     n_cells = [ '(' + str(i) + ')' for i in list(annot_dummy.sum(axis = 0)) ]
-    col_names = [c + ' ' + n for c, n in zip(annot_dummy.columns, n_cells)]
+    col_names = [c + '\n' + n for c, n in zip(annot_dummy.columns, n_cells)]
     annot_dummy.columns = col_names
 
     # -- Concat dummy-coded variables toa data.obs
@@ -43,4 +43,3 @@ def colorize_labels(adata, colorize, ncols):
         alpha = 0.5,
         palette = {'a' : 'red',
                    'b' : '0.9'})
-
