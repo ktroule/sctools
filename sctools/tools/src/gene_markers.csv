@@ -215,297 +215,297 @@ INHA,Theca interna,
 GSTA1,Theca interna,
 CYP11A1,Theca interna,
 MAP3K15,Theca interna,
-CD79A,B cells,Cytoscape V2
-MS4A1,B cells,Cytoscape V2
-CD19,B cells,Cytoscape V2
-CXCR5,Follicular B cells,Cytoscape V2
-TNFRSF13B,Follicular B cells,Cytoscape V2
-CD22,Follicular B cells,Cytoscape V2
-MKI67,Proliferative germinal center B cells,Cytoscape V2
-SUGCT,Proliferative germinal center B cells,Cytoscape V2
-AICDA,Proliferative germinal center B cells,Cytoscape V2
-POU2AF1,Germinal center B cells,Cytoscape V2
-CD40,Germinal center B cells,Cytoscape V2
-SUGCT,Germinal center B cells,Cytoscape V2
-CR2,Memory B cells,Cytoscape V2
-CD27,Memory B cells,Cytoscape V2
-MS4A1,Memory B cells,Cytoscape V2
-FCRL2,Age-associated B cells,Cytoscape V2
-ITGAX,Age-associated B cells,Cytoscape V2
-TBX21,Age-associated B cells,Cytoscape V2
-IGHM,Naive B cells,Cytoscape V2
-IGHD,Naive B cells,Cytoscape V2
-TCL1A,Naive B cells,Cytoscape V2
-CD24,Transitional B cells,Cytoscape V2
-MYO1C,Transitional B cells,Cytoscape V2
-MS4A1,Transitional B cells,Cytoscape V2
-MME,Large pre-B cells,Cytoscape V2
-CD24,Large pre-B cells,Cytoscape V2
-MKI67,Large pre-B cells,Cytoscape V2
-MME,Small pre-B cells,Cytoscape V2
-CD24,Small pre-B cells,Cytoscape V2
-IGLL5,Small pre-B cells,Cytoscape V2
-IL7R,Pre-pro-B cells,Cytoscape V2
-ZCCHC7,Pre-pro-B cells,Cytoscape V2
-RAG1,Pre-pro-B cells,Cytoscape V2
-MME,Pro-B cells,Cytoscape V2
-DNTT,Pro-B cells,Cytoscape V2
-IGLL1,Pro-B cells,Cytoscape V2
-MKI67,Cycling B cells,Cytoscape V2
-TOP2A,Cycling B cells,Cytoscape V2
-CD19,Cycling B cells,Cytoscape V2
-MKI67,Cycling DCs,Cytoscape V2
-TOP2A,Cycling DCs,Cytoscape V2
-CLEC10A,Cycling DCs,Cytoscape V2
-MKI67,Cycling gamma-delta T cells,Cytoscape V2
-TOP2A,Cycling gamma-delta T cells,Cytoscape V2
-TRDC,Cycling gamma-delta T cells,Cytoscape V2
-MKI67,Cycling monocytes,Cytoscape V2
-TOP2A,Cycling monocytes,Cytoscape V2
-S100A9,Cycling monocytes,Cytoscape V2
-MKI67,Cycling NK cells,Cytoscape V2
-TOP2A,Cycling NK cells,Cytoscape V2
-GNLY,Cycling NK cells,Cytoscape V2
-MKI67,Cycling T cells,Cytoscape V2
-TOP2A,Cycling T cells,Cytoscape V2
-CD3D,Cycling T cells,Cytoscape V2
-CD1C,DC,Cytoscape V2
-FCER1A,DC,Cytoscape V2
-CLEC10A,DC,Cytoscape V2
-BATF3,DC1,Cytoscape V2
-CADM1,DC1,Cytoscape V2
-CLEC9A,DC1,Cytoscape V2
-CLEC10A,DC2,Cytoscape V2
-FCER1A,DC2,Cytoscape V2
-CD1C,DC2,Cytoscape V2
-CLEC10A,DC3,Cytoscape V2
-FCER1A,DC3,Cytoscape V2
-S100A9,DC3,Cytoscape V2
-EBI3,Migratory DCs,Cytoscape V2
-CCR7,Migratory DCs,Cytoscape V2
-CCL19,Migratory DCs,Cytoscape V2
-CLEC10A,Transitional DC,Cytoscape V2
-KLF4,Transitional DC,Cytoscape V2
-AXL,Transitional DC,Cytoscape V2
-IRF8,DC precursor,Cytoscape V2
-CLEC10A,DC precursor,Cytoscape V2
-PCLAF,DC precursor,Cytoscape V2
-FXYD2,Double-negative thymocytes,Cytoscape V2
-HES1,Double-negative thymocytes,Cytoscape V2
-CD99,Double-negative thymocytes,Cytoscape V2
-CD1A,Double-positive thymocytes,Cytoscape V2
-CD8A,Double-positive thymocytes,Cytoscape V2
-SMPD3,Double-positive thymocytes,Cytoscape V2
-PF4,Early MK,Cytoscape V2
-CMTM5,Early MK,Cytoscape V2
-SELP,Early MK,Cytoscape V2
-CLDN5,Endothelial cells,Cytoscape V2
-PLVAP,Endothelial cells,Cytoscape V2
-SPARCL1,Endothelial cells,Cytoscape V2
-KRT15,Epithelial cells,Cytoscape V2
-KRT17,Epithelial cells,Cytoscape V2
-CCL19,Epithelial cells,Cytoscape V2
-HBM,Erythrocytes,Cytoscape V2
-HBQ1,Erythrocytes,Cytoscape V2
-GYPA,Erythrocytes,Cytoscape V2
-APOC1,Early erythroid,Cytoscape V2
-TESPA1,Early erythroid,Cytoscape V2
-GATA2,Early erythroid,Cytoscape V2
-GYPA,Late erythroid,Cytoscape V2
-GYPB,Late erythroid,Cytoscape V2
-HBA1,Late erythroid,Cytoscape V2
-PRDX2,Mid erythroid,Cytoscape V2
-KCNH2,Mid erythroid,Cytoscape V2
-GYPA,Mid erythroid,Cytoscape V2
-ACY3,ETP,Cytoscape V2
-SPINK2,ETP,Cytoscape V2
-CD34,ETP,Cytoscape V2
-COL1A1,Fibroblasts,Cytoscape V2
-COL1A2,Fibroblasts,Cytoscape V2
-DCN,Fibroblasts,Cytoscape V2
-KIT,Granulocytes,Cytoscape V2
-CPA3,Granulocytes,Cytoscape V2
-SLC45A3,Granulocytes,Cytoscape V2
-LCN2,Neutrophils,Cytoscape V2
-ORM1,Neutrophils,Cytoscape V2
-MMP8,Neutrophils,Cytoscape V2
-MPO,CMP,Cytoscape V2
-CTSG,CMP,Cytoscape V2
-FLT3,CMP,Cytoscape V2
-ETS1,Early lymphoid/T lymphoid,Cytoscape V2
-IL32,Early lymphoid/T lymphoid,Cytoscape V2
-GATA3,Early lymphoid/T lymphoid,Cytoscape V2
-FLT3,ELP,Cytoscape V2
-LTB,ELP,Cytoscape V2
-RUNX2,ELP,Cytoscape V2
-ELANE,GMP,Cytoscape V2
-MPO,GMP,Cytoscape V2
-PRTN3,GMP,Cytoscape V2
-CD34,HSC/MPP,Cytoscape V2
-SPINK2,HSC/MPP,Cytoscape V2
-CRHBP,HSC/MPP,Cytoscape V2
-GATA2,Megakaryocyte-erythroid-mast cell progenitor,Cytoscape V2
-FCER1A,Megakaryocyte-erythroid-mast cell progenitor,Cytoscape V2
-GATA1,Megakaryocyte-erythroid-mast cell progenitor,Cytoscape V2
-GATA2,MEMP,Cytoscape V2
-ITGA2B,MEMP,Cytoscape V2
-GATA1,MEMP,Cytoscape V2
-LYZ,Neutrophil-myeloid progenitor,Cytoscape V2
-MPO,Neutrophil-myeloid progenitor,Cytoscape V2
-SERPINB1,Neutrophil-myeloid progenitor,Cytoscape V2
-S100A13,ILC,Cytoscape V2
-TLE1,ILC,Cytoscape V2
-AREG,ILC,Cytoscape V2
-CXCR3,ILC1,Cytoscape V2
-CD3D,ILC1,Cytoscape V2
-IKZF3,ILC1,Cytoscape V2
-GATA3,ILC2,Cytoscape V2
-KLRG1,ILC2,Cytoscape V2
-HPGDS,ILC2,Cytoscape V2
-IL4I1,ILC3,Cytoscape V2
-RORC,ILC3,Cytoscape V2
-KIT,ILC3,Cytoscape V2
-GNLY,CD16+ NK cells,Cytoscape V2
-FCGR3A,CD16+ NK cells,Cytoscape V2
-NKG7,CD16+ NK cells,Cytoscape V2
-GNLY,CD16- NK cells,Cytoscape V2
-CD160,CD16- NK cells,Cytoscape V2
-NKG7,CD16- NK cells,Cytoscape V2
-GNLY,NK cells,Cytoscape V2
-XCL2,NK cells,Cytoscape V2
-NKG7,NK cells,Cytoscape V2
-CCL5,Transitional NK,Cytoscape V2
-GZMK,Transitional NK,Cytoscape V2
-FCGR3A,Transitional NK,Cytoscape V2
-LST1,ILC precursor,Cytoscape V2
-HPN,ILC precursor,Cytoscape V2
-SCN1B,ILC precursor,Cytoscape V2
-GPNMB,Alveolar macrophages,Cytoscape V2
-TREM2,Alveolar macrophages,Cytoscape V2
-BHLHE41,Alveolar macrophages,Cytoscape V2
-TNIP3,Intermediate macrophages,Cytoscape V2
-CCL2,Intermediate macrophages,Cytoscape V2
-SPP1,Intermediate macrophages,Cytoscape V2
-CD209,Intestinal macrophages,Cytoscape V2
-IGF1,Intestinal macrophages,Cytoscape V2
-SDS,Intestinal macrophages,Cytoscape V2
-CD5L,Erythrophagocytic macrophages,Cytoscape V2
-SPIC,Erythrophagocytic macrophages,Cytoscape V2
-SCL40A1,Erythrophagocytic macrophages,Cytoscape V2
-LYVE1,Hofbauer cells,Cytoscape V2
-SCIN,Hofbauer cells,Cytoscape V2
-F13A1,Hofbauer cells,Cytoscape V2
-SEPP1,Kidney-resident macrophages,Cytoscape V2
-CSF2RA,Kidney-resident macrophages,Cytoscape V2
-CD74,Kidney-resident macrophages,Cytoscape V2
-CD5L,Kupffer cells,Cytoscape V2
-VCAM1,Kupffer cells,Cytoscape V2
-CETP,Kupffer cells,Cytoscape V2
-C1QA,Macrophages,Cytoscape V2
-CD68,Macrophages,Cytoscape V2
-TREM2,Macrophages,Cytoscape V2
-TPSAB1,Mast cells,Cytoscape V2
-TPSB2,Mast cells,Cytoscape V2
-CPA3,Mast cells,Cytoscape V2
-GATA2,Megakaryocyte precursor,Cytoscape V2
-PRSS57,Megakaryocyte precursor,Cytoscape V2
-CAVIN1,Megakaryocyte precursor,Cytoscape V2
-CMTM5,Megakaryocytes/platelets,Cytoscape V2
-ITGA2B,Megakaryocytes/platelets,Cytoscape V2
-PF4,Megakaryocytes/platelets,Cytoscape V2
-HLA-DPA1,MNP,Cytoscape V2
-HLA-DQA1,MNP,Cytoscape V2
-FGL2,MNP,Cytoscape V2
-TYROBP,Mono-mac,Cytoscape V2
-C1QC,Mono-mac,Cytoscape V2
-HMOX1,Mono-mac,Cytoscape V2
-LYZ,Monocyte precursor,Cytoscape V2
-VCAN,Monocyte precursor,Cytoscape V2
-S100A9,Monocyte precursor,Cytoscape V2
-S100A9,Classical monocytes,Cytoscape V2
-CD14,Classical monocytes,Cytoscape V2
-S100A12,Classical monocytes,Cytoscape V2
-FCGR3A,Non-classical monocytes,Cytoscape V2
-C1QA,Non-classical monocytes,Cytoscape V2
-CX3CR1,Non-classical monocytes,Cytoscape V2
-S100A9,Monocytes,Cytoscape V2
-LYZ,Monocytes,Cytoscape V2
-FCN1,Monocytes,Cytoscape V2
-S100A8,Myelocytes,Cytoscape V2
-FTL,Myelocytes,Cytoscape V2
-CSTA,Myelocytes,Cytoscape V2
-IL3RA,pDC,Cytoscape V2
-LILRA4,pDC,Cytoscape V2
-PLD4,pDC,Cytoscape V2
-IL3RA,pDC precursor,Cytoscape V2
-CCDC50,pDC precursor,Cytoscape V2
-IRF7,pDC precursor,Cytoscape V2
-JCHAIN,Plasma cells,Cytoscape V2
-MZB1,Plasma cells,Cytoscape V2
-XBP1,Plasma cells,Cytoscape V2
-MKI67,Plasmablasts,Cytoscape V2
-SDC1,Plasmablasts,Cytoscape V2
-XBP1,Plasmablasts,Cytoscape V2
-CTSG,Promyelocytes,Cytoscape V2
-MPO,Promyelocytes,Cytoscape V2
-ELANE,Promyelocytes,Cytoscape V2
-ZNF683,CD8a/a,Cytoscape V2
-GNG4,CD8a/a,Cytoscape V2
-PDCD1,CD8a/a,Cytoscape V2
-TOX2,CD8a/b(entry),Cytoscape V2
-SATB1,CD8a/b(entry),Cytoscape V2
-CCR9,CD8a/b(entry),Cytoscape V2
-PDCD1,Follicular helper T cells,Cytoscape V2
-ICOS,Follicular helper T cells,Cytoscape V2
-CXCR5,Follicular helper T cells,Cytoscape V2
-ITGAD,CRTAM+ gamma-delta T cells,Cytoscape V2
-TRDC,CRTAM+ gamma-delta T cells,Cytoscape V2
-IKZF2,CRTAM+ gamma-delta T cells,Cytoscape V2
-TRDC,gamma-delta T cells,Cytoscape V2
-TRGC1,gamma-delta T cells,Cytoscape V2
-CCL5,gamma-delta T cells,Cytoscape V2
-KLRB1,MAIT cells,Cytoscape V2
-SLC4A10,MAIT cells,Cytoscape V2
-TRAV1-2,MAIT cells,Cytoscape V2
-GZMK,Memory CD4+ cytotoxic T cells,Cytoscape V2
-CD4,Memory CD4+ cytotoxic T cells,Cytoscape V2
-IL10,Memory CD4+ cytotoxic T cells,Cytoscape V2
-NKG7,NKT cells,Cytoscape V2
-GNLY,NKT cells,Cytoscape V2
-CD8A,NKT cells,Cytoscape V2
-CTLA4,Regulatory T cells,Cytoscape V2
-IL2RA,Regulatory T cells,Cytoscape V2
-FOXP3,Regulatory T cells,Cytoscape V2
-MIR155HG,T(agonist),Cytoscape V2
-BIRC3,T(agonist),Cytoscape V2
-SMS,T(agonist),Cytoscape V2
-CD8A,Tcm/Naive cytotoxic T cells,Cytoscape V2
-CCR7,Tcm/Naive cytotoxic T cells,Cytoscape V2
-SELL,Tcm/Naive cytotoxic T cells,Cytoscape V2
-CCR7,Tcm/Naive helper T cells,Cytoscape V2
-SELL,Tcm/Naive helper T cells,Cytoscape V2
-CD4,Tcm/Naive helper T cells,Cytoscape V2
-GZMK,Tem/Trm cytotoxic T cells,Cytoscape V2
-CD8A,Tem/Trm cytotoxic T cells,Cytoscape V2
-CCL5,Tem/Trm cytotoxic T cells,Cytoscape V2
-CX3CR1,Tem/Temra cytotoxic T cells,Cytoscape V2
-GZMB,Tem/Temra cytotoxic T cells,Cytoscape V2
-GNLY,Tem/Temra cytotoxic T cells,Cytoscape V2
-ITGA1,Trm cytotoxic T cells,Cytoscape V2
-ITGAE,Trm cytotoxic T cells,Cytoscape V2
-CXCR6,Trm cytotoxic T cells,Cytoscape V2
-KLRB1,Tem/Effector helper T cells,Cytoscape V2
-AQP3,Tem/Effector helper T cells,Cytoscape V2
-ITGB1,Tem/Effector helper T cells,Cytoscape V2
-PDCD1,Tem/Effector helper T cells PD1+,Cytoscape V2
-CD4,Tem/Effector helper T cells PD1+,Cytoscape V2
-CTLA4,Tem/Effector helper T cells PD1+,Cytoscape V2
-CD27,Treg(diff),Cytoscape V2
-CCR7,Treg(diff),Cytoscape V2
-IKZF4,Treg(diff),Cytoscape V2
-CCL5,Type 1 helper T cells,Cytoscape V2
-CXCR3,Type 1 helper T cells,Cytoscape V2
-TBX21,Type 1 helper T cells,Cytoscape V2
-IL7R,Type 17 helper T cells,Cytoscape V2
-CCR6,Type 17 helper T cells,Cytoscape V2
-ZBTB16,Type 17 helper T cells,Cytoscape V2
+CD79A,B cells,CellTypist V2
+MS4A1,B cells,CellTypist V2
+CD19,B cells,CellTypist V2
+CXCR5,Follicular B cells,CellTypist V2
+TNFRSF13B,Follicular B cells,CellTypist V2
+CD22,Follicular B cells,CellTypist V2
+MKI67,Proliferative germinal center B cells,CellTypist V2
+SUGCT,Proliferative germinal center B cells,CellTypist V2
+AICDA,Proliferative germinal center B cells,CellTypist V2
+POU2AF1,Germinal center B cells,CellTypist V2
+CD40,Germinal center B cells,CellTypist V2
+SUGCT,Germinal center B cells,CellTypist V2
+CR2,Memory B cells,CellTypist V2
+CD27,Memory B cells,CellTypist V2
+MS4A1,Memory B cells,CellTypist V2
+FCRL2,Age-associated B cells,CellTypist V2
+ITGAX,Age-associated B cells,CellTypist V2
+TBX21,Age-associated B cells,CellTypist V2
+IGHM,Naive B cells,CellTypist V2
+IGHD,Naive B cells,CellTypist V2
+TCL1A,Naive B cells,CellTypist V2
+CD24,Transitional B cells,CellTypist V2
+MYO1C,Transitional B cells,CellTypist V2
+MS4A1,Transitional B cells,CellTypist V2
+MME,Large pre-B cells,CellTypist V2
+CD24,Large pre-B cells,CellTypist V2
+MKI67,Large pre-B cells,CellTypist V2
+MME,Small pre-B cells,CellTypist V2
+CD24,Small pre-B cells,CellTypist V2
+IGLL5,Small pre-B cells,CellTypist V2
+IL7R,Pre-pro-B cells,CellTypist V2
+ZCCHC7,Pre-pro-B cells,CellTypist V2
+RAG1,Pre-pro-B cells,CellTypist V2
+MME,Pro-B cells,CellTypist V2
+DNTT,Pro-B cells,CellTypist V2
+IGLL1,Pro-B cells,CellTypist V2
+MKI67,Cycling B cells,CellTypist V2
+TOP2A,Cycling B cells,CellTypist V2
+CD19,Cycling B cells,CellTypist V2
+MKI67,Cycling DCs,CellTypist V2
+TOP2A,Cycling DCs,CellTypist V2
+CLEC10A,Cycling DCs,CellTypist V2
+MKI67,Cycling gamma-delta T cells,CellTypist V2
+TOP2A,Cycling gamma-delta T cells,CellTypist V2
+TRDC,Cycling gamma-delta T cells,CellTypist V2
+MKI67,Cycling monocytes,CellTypist V2
+TOP2A,Cycling monocytes,CellTypist V2
+S100A9,Cycling monocytes,CellTypist V2
+MKI67,Cycling NK cells,CellTypist V2
+TOP2A,Cycling NK cells,CellTypist V2
+GNLY,Cycling NK cells,CellTypist V2
+MKI67,Cycling T cells,CellTypist V2
+TOP2A,Cycling T cells,CellTypist V2
+CD3D,Cycling T cells,CellTypist V2
+CD1C,DC,CellTypist V2
+FCER1A,DC,CellTypist V2
+CLEC10A,DC,CellTypist V2
+BATF3,DC1,CellTypist V2
+CADM1,DC1,CellTypist V2
+CLEC9A,DC1,CellTypist V2
+CLEC10A,DC2,CellTypist V2
+FCER1A,DC2,CellTypist V2
+CD1C,DC2,CellTypist V2
+CLEC10A,DC3,CellTypist V2
+FCER1A,DC3,CellTypist V2
+S100A9,DC3,CellTypist V2
+EBI3,Migratory DCs,CellTypist V2
+CCR7,Migratory DCs,CellTypist V2
+CCL19,Migratory DCs,CellTypist V2
+CLEC10A,Transitional DC,CellTypist V2
+KLF4,Transitional DC,CellTypist V2
+AXL,Transitional DC,CellTypist V2
+IRF8,DC precursor,CellTypist V2
+CLEC10A,DC precursor,CellTypist V2
+PCLAF,DC precursor,CellTypist V2
+FXYD2,Double-negative thymocytes,CellTypist V2
+HES1,Double-negative thymocytes,CellTypist V2
+CD99,Double-negative thymocytes,CellTypist V2
+CD1A,Double-positive thymocytes,CellTypist V2
+CD8A,Double-positive thymocytes,CellTypist V2
+SMPD3,Double-positive thymocytes,CellTypist V2
+PF4,Early MK,CellTypist V2
+CMTM5,Early MK,CellTypist V2
+SELP,Early MK,CellTypist V2
+CLDN5,Endothelial cells,CellTypist V2
+PLVAP,Endothelial cells,CellTypist V2
+SPARCL1,Endothelial cells,CellTypist V2
+KRT15,Epithelial cells,CellTypist V2
+KRT17,Epithelial cells,CellTypist V2
+CCL19,Epithelial cells,CellTypist V2
+HBM,Erythrocytes,CellTypist V2
+HBQ1,Erythrocytes,CellTypist V2
+GYPA,Erythrocytes,CellTypist V2
+APOC1,Early erythroid,CellTypist V2
+TESPA1,Early erythroid,CellTypist V2
+GATA2,Early erythroid,CellTypist V2
+GYPA,Late erythroid,CellTypist V2
+GYPB,Late erythroid,CellTypist V2
+HBA1,Late erythroid,CellTypist V2
+PRDX2,Mid erythroid,CellTypist V2
+KCNH2,Mid erythroid,CellTypist V2
+GYPA,Mid erythroid,CellTypist V2
+ACY3,ETP,CellTypist V2
+SPINK2,ETP,CellTypist V2
+CD34,ETP,CellTypist V2
+COL1A1,Fibroblasts,CellTypist V2
+COL1A2,Fibroblasts,CellTypist V2
+DCN,Fibroblasts,CellTypist V2
+KIT,Granulocytes,CellTypist V2
+CPA3,Granulocytes,CellTypist V2
+SLC45A3,Granulocytes,CellTypist V2
+LCN2,Neutrophils,CellTypist V2
+ORM1,Neutrophils,CellTypist V2
+MMP8,Neutrophils,CellTypist V2
+MPO,CMP,CellTypist V2
+CTSG,CMP,CellTypist V2
+FLT3,CMP,CellTypist V2
+ETS1,Early lymphoid/T lymphoid,CellTypist V2
+IL32,Early lymphoid/T lymphoid,CellTypist V2
+GATA3,Early lymphoid/T lymphoid,CellTypist V2
+FLT3,ELP,CellTypist V2
+LTB,ELP,CellTypist V2
+RUNX2,ELP,CellTypist V2
+ELANE,GMP,CellTypist V2
+MPO,GMP,CellTypist V2
+PRTN3,GMP,CellTypist V2
+CD34,HSC/MPP,CellTypist V2
+SPINK2,HSC/MPP,CellTypist V2
+CRHBP,HSC/MPP,CellTypist V2
+GATA2,Megakaryocyte-erythroid-mast cell progenitor,CellTypist V2
+FCER1A,Megakaryocyte-erythroid-mast cell progenitor,CellTypist V2
+GATA1,Megakaryocyte-erythroid-mast cell progenitor,CellTypist V2
+GATA2,MEMP,CellTypist V2
+ITGA2B,MEMP,CellTypist V2
+GATA1,MEMP,CellTypist V2
+LYZ,Neutrophil-myeloid progenitor,CellTypist V2
+MPO,Neutrophil-myeloid progenitor,CellTypist V2
+SERPINB1,Neutrophil-myeloid progenitor,CellTypist V2
+S100A13,ILC,CellTypist V2
+TLE1,ILC,CellTypist V2
+AREG,ILC,CellTypist V2
+CXCR3,ILC1,CellTypist V2
+CD3D,ILC1,CellTypist V2
+IKZF3,ILC1,CellTypist V2
+GATA3,ILC2,CellTypist V2
+KLRG1,ILC2,CellTypist V2
+HPGDS,ILC2,CellTypist V2
+IL4I1,ILC3,CellTypist V2
+RORC,ILC3,CellTypist V2
+KIT,ILC3,CellTypist V2
+GNLY,CD16+ NK cells,CellTypist V2
+FCGR3A,CD16+ NK cells,CellTypist V2
+NKG7,CD16+ NK cells,CellTypist V2
+GNLY,CD16- NK cells,CellTypist V2
+CD160,CD16- NK cells,CellTypist V2
+NKG7,CD16- NK cells,CellTypist V2
+GNLY,NK cells,CellTypist V2
+XCL2,NK cells,CellTypist V2
+NKG7,NK cells,CellTypist V2
+CCL5,Transitional NK,CellTypist V2
+GZMK,Transitional NK,CellTypist V2
+FCGR3A,Transitional NK,CellTypist V2
+LST1,ILC precursor,CellTypist V2
+HPN,ILC precursor,CellTypist V2
+SCN1B,ILC precursor,CellTypist V2
+GPNMB,Alveolar macrophages,CellTypist V2
+TREM2,Alveolar macrophages,CellTypist V2
+BHLHE41,Alveolar macrophages,CellTypist V2
+TNIP3,Intermediate macrophages,CellTypist V2
+CCL2,Intermediate macrophages,CellTypist V2
+SPP1,Intermediate macrophages,CellTypist V2
+CD209,Intestinal macrophages,CellTypist V2
+IGF1,Intestinal macrophages,CellTypist V2
+SDS,Intestinal macrophages,CellTypist V2
+CD5L,Erythrophagocytic macrophages,CellTypist V2
+SPIC,Erythrophagocytic macrophages,CellTypist V2
+SCL40A1,Erythrophagocytic macrophages,CellTypist V2
+LYVE1,Hofbauer cells,CellTypist V2
+SCIN,Hofbauer cells,CellTypist V2
+F13A1,Hofbauer cells,CellTypist V2
+SEPP1,Kidney-resident macrophages,CellTypist V2
+CSF2RA,Kidney-resident macrophages,CellTypist V2
+CD74,Kidney-resident macrophages,CellTypist V2
+CD5L,Kupffer cells,CellTypist V2
+VCAM1,Kupffer cells,CellTypist V2
+CETP,Kupffer cells,CellTypist V2
+C1QA,Macrophages,CellTypist V2
+CD68,Macrophages,CellTypist V2
+TREM2,Macrophages,CellTypist V2
+TPSAB1,Mast cells,CellTypist V2
+TPSB2,Mast cells,CellTypist V2
+CPA3,Mast cells,CellTypist V2
+GATA2,Megakaryocyte precursor,CellTypist V2
+PRSS57,Megakaryocyte precursor,CellTypist V2
+CAVIN1,Megakaryocyte precursor,CellTypist V2
+CMTM5,Megakaryocytes/platelets,CellTypist V2
+ITGA2B,Megakaryocytes/platelets,CellTypist V2
+PF4,Megakaryocytes/platelets,CellTypist V2
+HLA-DPA1,MNP,CellTypist V2
+HLA-DQA1,MNP,CellTypist V2
+FGL2,MNP,CellTypist V2
+TYROBP,Mono-mac,CellTypist V2
+C1QC,Mono-mac,CellTypist V2
+HMOX1,Mono-mac,CellTypist V2
+LYZ,Monocyte precursor,CellTypist V2
+VCAN,Monocyte precursor,CellTypist V2
+S100A9,Monocyte precursor,CellTypist V2
+S100A9,Classical monocytes,CellTypist V2
+CD14,Classical monocytes,CellTypist V2
+S100A12,Classical monocytes,CellTypist V2
+FCGR3A,Non-classical monocytes,CellTypist V2
+C1QA,Non-classical monocytes,CellTypist V2
+CX3CR1,Non-classical monocytes,CellTypist V2
+S100A9,Monocytes,CellTypist V2
+LYZ,Monocytes,CellTypist V2
+FCN1,Monocytes,CellTypist V2
+S100A8,Myelocytes,CellTypist V2
+FTL,Myelocytes,CellTypist V2
+CSTA,Myelocytes,CellTypist V2
+IL3RA,pDC,CellTypist V2
+LILRA4,pDC,CellTypist V2
+PLD4,pDC,CellTypist V2
+IL3RA,pDC precursor,CellTypist V2
+CCDC50,pDC precursor,CellTypist V2
+IRF7,pDC precursor,CellTypist V2
+JCHAIN,Plasma cells,CellTypist V2
+MZB1,Plasma cells,CellTypist V2
+XBP1,Plasma cells,CellTypist V2
+MKI67,Plasmablasts,CellTypist V2
+SDC1,Plasmablasts,CellTypist V2
+XBP1,Plasmablasts,CellTypist V2
+CTSG,Promyelocytes,CellTypist V2
+MPO,Promyelocytes,CellTypist V2
+ELANE,Promyelocytes,CellTypist V2
+ZNF683,CD8a/a,CellTypist V2
+GNG4,CD8a/a,CellTypist V2
+PDCD1,CD8a/a,CellTypist V2
+TOX2,CD8a/b(entry),CellTypist V2
+SATB1,CD8a/b(entry),CellTypist V2
+CCR9,CD8a/b(entry),CellTypist V2
+PDCD1,Follicular helper T cells,CellTypist V2
+ICOS,Follicular helper T cells,CellTypist V2
+CXCR5,Follicular helper T cells,CellTypist V2
+ITGAD,CRTAM+ gamma-delta T cells,CellTypist V2
+TRDC,CRTAM+ gamma-delta T cells,CellTypist V2
+IKZF2,CRTAM+ gamma-delta T cells,CellTypist V2
+TRDC,gamma-delta T cells,CellTypist V2
+TRGC1,gamma-delta T cells,CellTypist V2
+CCL5,gamma-delta T cells,CellTypist V2
+KLRB1,MAIT cells,CellTypist V2
+SLC4A10,MAIT cells,CellTypist V2
+TRAV1-2,MAIT cells,CellTypist V2
+GZMK,Memory CD4+ cytotoxic T cells,CellTypist V2
+CD4,Memory CD4+ cytotoxic T cells,CellTypist V2
+IL10,Memory CD4+ cytotoxic T cells,CellTypist V2
+NKG7,NKT cells,CellTypist V2
+GNLY,NKT cells,CellTypist V2
+CD8A,NKT cells,CellTypist V2
+CTLA4,Regulatory T cells,CellTypist V2
+IL2RA,Regulatory T cells,CellTypist V2
+FOXP3,Regulatory T cells,CellTypist V2
+MIR155HG,T(agonist),CellTypist V2
+BIRC3,T(agonist),CellTypist V2
+SMS,T(agonist),CellTypist V2
+CD8A,Tcm/Naive cytotoxic T cells,CellTypist V2
+CCR7,Tcm/Naive cytotoxic T cells,CellTypist V2
+SELL,Tcm/Naive cytotoxic T cells,CellTypist V2
+CCR7,Tcm/Naive helper T cells,CellTypist V2
+SELL,Tcm/Naive helper T cells,CellTypist V2
+CD4,Tcm/Naive helper T cells,CellTypist V2
+GZMK,Tem/Trm cytotoxic T cells,CellTypist V2
+CD8A,Tem/Trm cytotoxic T cells,CellTypist V2
+CCL5,Tem/Trm cytotoxic T cells,CellTypist V2
+CX3CR1,Tem/Temra cytotoxic T cells,CellTypist V2
+GZMB,Tem/Temra cytotoxic T cells,CellTypist V2
+GNLY,Tem/Temra cytotoxic T cells,CellTypist V2
+ITGA1,Trm cytotoxic T cells,CellTypist V2
+ITGAE,Trm cytotoxic T cells,CellTypist V2
+CXCR6,Trm cytotoxic T cells,CellTypist V2
+KLRB1,Tem/Effector helper T cells,CellTypist V2
+AQP3,Tem/Effector helper T cells,CellTypist V2
+ITGB1,Tem/Effector helper T cells,CellTypist V2
+PDCD1,Tem/Effector helper T cells PD1+,CellTypist V2
+CD4,Tem/Effector helper T cells PD1+,CellTypist V2
+CTLA4,Tem/Effector helper T cells PD1+,CellTypist V2
+CD27,Treg(diff),CellTypist V2
+CCR7,Treg(diff),CellTypist V2
+IKZF4,Treg(diff),CellTypist V2
+CCL5,Type 1 helper T cells,CellTypist V2
+CXCR3,Type 1 helper T cells,CellTypist V2
+TBX21,Type 1 helper T cells,CellTypist V2
+IL7R,Type 17 helper T cells,CellTypist V2
+CCR6,Type 17 helper T cells,CellTypist V2
+ZBTB16,Type 17 helper T cells,CellTypist V2
